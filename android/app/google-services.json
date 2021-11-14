@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387509367304",
+    "project_id": "food-restore-ebd9b",
+    "storage_bucket": "food-restore-ebd9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387509367304:android:864c70207b08ab125257bd",
+        "android_client_info": {
+          "package_name": "com.example.foodrestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387509367304-mvfq6ms6up6c9t3su95aqc5bqkpcmu1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5YkCdfUqb0DlQGlrQ1fp9874rqGhDD4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387509367304-mvfq6ms6up6c9t3su95aqc5bqkpcmu1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
