@@ -4,6 +4,8 @@ A Flutter Food Rescue Application for requesting and tracking Pick-up service.
 
 This is my Final Year Project for my Bachelor of Software Engineering (HONS) program in Wawasan Open University.
 
+[Demo Video](https://www.youtube.com/watch?v=fLH1dxOwfUg).
+
 ## Project Setup
 
 1. Clone the project
